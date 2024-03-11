@@ -1,7 +1,5 @@
 # Welcome to Codedash 🚀
 
-![Codedash Logo](https://example.com/codedash_logo.png)
-
 ## About Us
 
 Codedash is a community-driven organization passionate about coding, technology, and innovation. We strive to empower individuals with the knowledge and skills necessary to thrive in the fast-paced world of software development.
