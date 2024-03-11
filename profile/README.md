@@ -28,7 +28,7 @@ Our mission at Codedash is to make coding education accessible to everyone, rega
 
 ## Contact Us
 
-Have questions or suggestions? Feel free to reach out to us via email at contact@codedash.org or join our Discord community.
+Have questions or suggestions? Feel free to reach out to us via email at contact@codedash.in or join our Discord community.
 
 Follow us on Twitter and LinkedIn for the latest updates and announcements.
 
