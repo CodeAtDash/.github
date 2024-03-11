@@ -20,7 +20,7 @@ Our mission at Codedash is to make coding education accessible to everyone, rega
 
 ## Get Involved
 
-- **Join Our Community:** Connect with fellow developers, share your knowledge, and stay updated on upcoming events by joining our community on Discord [here](https://discord.gg/codedash).
+- **Join Our Community:** Connect with fellow developers, share your knowledge, and stay updated on upcoming events by joining our community on Discord.
   
 - **Attend an Event:** Check out our calendar of events and register for upcoming workshops, hackathons, and meetups.
   
@@ -28,9 +28,8 @@ Our mission at Codedash is to make coding education accessible to everyone, rega
 
 ## Contact Us
 
-Have questions or suggestions? Feel free to reach out to us via email at contact@codedash.org.
+Have questions or suggestions? Feel free to reach out to us via email at contact@codedash.org or join our Discord community.
 
-Follow us on [Twitter](https://twitter.com/codedashorg) and [LinkedIn](https://www.linkedin.com/company/codedash) for the latest updates and announcements.
+Follow us on Twitter and LinkedIn for the latest updates and announcements.
 
 We look forward to coding with you!
-
