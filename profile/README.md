@@ -30,7 +30,7 @@ Unleash your creativity with DrawDash, the ultimate drawing app designed to turn
 ### [Dashnotes](https://www.dashnotes.in/)
 A versatile note-taking app designed to empower you in organizing your thoughts effortlessly.
 
-### Dashpad
+### Dashpad (Yet to release)
 Elevate your business efficiency with Dashpad—the ultimate all-in-one app for seamless employee management.
 
 ## Get Involved
