@@ -2,34 +2,45 @@
 
 ## About Us
 
-Codedash is a community-driven organization passionate about coding, technology, and innovation. We strive to empower individuals with the knowledge and skills necessary to thrive in the fast-paced world of software development.
+Codedash is a community-driven organization passionate about coding, technology, and innovation. We strive to empower individuals and businesses with the knowledge and skills necessary to thrive in the fast-paced world of software development.
 
 ## Our Mission
 
-Our mission at Codedash is to make coding education accessible to everyone, regardless of their background or experience level. We believe in the power of technology to transform lives and drive positive change in the world.
+Our mission at Codedash is to make coding education accessible to everyone, regardless of their background or experience level. We believe in the power of technology to transform lives and drive positive change in the world. Additionally, we are dedicated to delivering solutions that transcend expectations and set new industry standards.
 
 ## What We Offer
 
-- **Coding Workshops:** We regularly host workshops on various programming languages, frameworks, and technologies. Whether you're a beginner or an experienced developer, there's something for everyone.
-  
-- **Hackathons:** Join us for exciting hackathons where you can collaborate with like-minded individuals, work on innovative projects, and showcase your skills to the world.
-  
-- **Community Events:** From networking meetups to panel discussions and tech talks, we organize a wide range of events to foster learning, collaboration, and growth within the tech community.
-  
+- **Professional Services:** We offer a range of professional services including web development, mobile app development, SaaS solutions, server management, AI & machine learning, and maintenance & support.
+
 - **Open Source Contributions:** Get involved in our open-source projects and contribute to the development of cutting-edge software solutions. We believe in the power of collaboration and welcome contributions from developers of all skill levels.
+
+## Technologies We Use
+
+We are proficient in a wide range of technologies, including:
+- **Frontend:** Next.js, React Native, Flutter, SvelteKit, Remix.Run
+- **Backend:** NodeJs, NestJS, Python
+- **Database & Cloud:** PostgreSQL, MongoDB, AWS, Firebase, Supabase
+- **DevOps & Tools:** Docker, GraphQL
+
+## Our Products
+
+### [Drawdash](https://www.drawdash.in/)
+Unleash your creativity with DrawDash, the ultimate drawing app designed to turn your imagination into vibrant masterpieces.
+
+### [Dashnotes](https://www.dashnotes.in/)
+A versatile note-taking app designed to empower you in organizing your thoughts effortlessly.
+
+### Dashpad
+Elevate your business efficiency with Dashpad—the ultimate all-in-one app for seamless employee management.
 
 ## Get Involved
 
-- **Join Our Community:** Connect with fellow developers, share your knowledge, and stay updated on upcoming events by joining our community on Discord.
-  
-- **Attend an Event:** Check out our calendar of events and register for upcoming workshops, hackathons, and meetups.
-  
-- **Contribute to Projects:** Explore our GitHub repositories and contribute to our open-source projects. Whether you're fixing bugs, adding features, or improving documentation, your contributions are highly appreciated.
+Ping us on [X (Twitter)](https://x.com/CodeAtDash) and post on our [blog](https://blog.codedash.in/) to get involved with our community and stay updated on our latest news and events.
 
 ## Contact Us
 
-Have questions or suggestions? Feel free to reach out to us via email at contact@codedash.in or join our Discord community.
+Have questions or suggestions? Feel free to reach out to us via email at contact@codedash.in.
 
-Follow us on Twitter and LinkedIn for the latest updates and announcements.
+Follow us on [X (Twitter)](https://x.com/CodeAtDash) and [LinkedIn](https://www.linkedin.com/company/codedash/) for the latest updates and announcements.
 
 We look forward to coding with you!
